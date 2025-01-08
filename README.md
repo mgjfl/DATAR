@@ -18,7 +18,7 @@ This project is centered around the paper [DATAR: A Dataset for Tracking App Rel
 ---
 
 ### 2. **Data**  
-The **data** folder is meant to store cleaned and preprocessed data. However, this folder is not published to GitHub due to size and privacy considerations.  
+The **data** folder is meant to store cleaned and preprocessed data. However, this folder is not published to GitHub due to size considerations.  
 
 To generate the data locally:  
 1. Download the dataset from [Zenodo](https://doi.org/10.5281/zenodo.10320168).  
